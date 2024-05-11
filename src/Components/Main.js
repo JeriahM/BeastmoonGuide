@@ -10,6 +10,8 @@ import { useState } from "react";
        <Page.Navigation key={user}/>
        <Routes>
          <Route path="/" element={<Page.Home />} />
+         <Route path="/Beastmoon-Hunt" element={<Page.Hunt/>} />
+         <Route path="/Beastmoon-Mayhem" element={<Page.Mayhem/>} />
          <Route path="/Login" element={<LogOutRoute path="/Login" element={Page.LogIn} param={setUser} />} />
          <Route path="/Register" element={<LogOutRoute path="/Register" element={Page.Register} param={setUser}/>} />
          <Route path="/Profile" element={<LogInRoute path="/Profile" element={Page.Profile} param={setUser} />} />
