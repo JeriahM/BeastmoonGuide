@@ -9,7 +9,7 @@ import { useState } from "react";
      <Router>
        <Page.Navigation key={user}/>
        <Routes>
-         <Route path="/" element={<Page.Home />} />
+         <Route path="/" element={<Page.Guide />} />
          <Route path="/Beastmoon-Hunt" element={<Page.Hunt/>} />
          <Route path="/Beastmoon-Mayhem" element={<Page.Mayhem/>} />
          <Route path="/Login" element={<LogOutRoute path="/Login" element={Page.LogIn} param={setUser} />} />

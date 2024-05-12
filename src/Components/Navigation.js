@@ -5,7 +5,7 @@ const Navigation = () => {
    return (
       <div id="navigation">
          <ul>
-            <li><Link to="/"> Home Page</Link></li>
+            <li><Link to="/"> Guide</Link></li>
             <li><Link to="/Beastmoon-Mayhem"> Mayhem</Link></li>
             <li><Link to="/Beastmoon-Hunt"> Hunt</Link></li>
             <li><Link to="/Profile"> Profile</Link></li>
