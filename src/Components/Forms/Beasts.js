@@ -1,5 +1,5 @@
-import * as Form from "./BeastStyles.js";
-import { pageStyle, Body } from "../PageStyling.js";
+import * as Form from "../Styles/BeastStyles.js";
+import { pageStyle, Body, Header } from "../Styles/PageStyling.js";
 import Colossus from "../Images/Colossus.jpg";
 import Cyclops from "../Images/Cyclops.jpg";
 import Draconian from "../Images/Draconian.jpg";
@@ -17,7 +17,7 @@ const Beasts = () => {
    return (
       <HelmetProvider>
          <Body>
-            <h1>Beastmoon Forms</h1>
+            <Header><h1>Beastmoon Forms</h1></Header>
             <Form.FormWrapper>
                <Helmet>
                   <style>{pageStyle("221,161,94", "#582f0e")}</style>

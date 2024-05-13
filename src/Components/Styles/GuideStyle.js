@@ -11,29 +11,25 @@ text-align: center;
 
 export const Wrapper = styled.div`
 display: grid;
+margin-top: 2em;
+margin-bottom: 2em;
 grid-template-areas:
-  ". hd hd hd ."
-  ". . des . ."
   ". forms forms lunari . "
   ". forms forms gardening . "
-  ". crafting crafting gardening ."
-  ". . tierCost . .";
+  ". crafting crafting gardening .";
 grid-gap: 1em;
 `;
 
-export const Header = styled.div`
-grid-area: hd;
-font-size: 1.25em
-`;
-
 export const Description = styled.div`
-grid-area: des;
+width: 60%;
+margin-left: auto;
+margin-right: auto;
 font-size: 1.25em
 `;
 
 export const Forms = styled.div`
-background-color: #723008;
-color: rgb(251, 226, 66);
+background-color: rgba(185, 179, 179, 0.454);
+color: #00fde8;
 padding: 15%;
 grid-area: forms;
 font-size: 1.25em;
@@ -41,8 +37,8 @@ text-align: center;
 `;
 
 export const Lunari = styled.div`
-background-color: #723008;
-color: rgb(251, 226, 66);
+background-color: rgba(185, 179, 179, 0.454);
+color: #00fde8;
 padding: 5%;
 grid-area: lunari;
 font-size: 1.25em;
@@ -50,8 +46,8 @@ text-align: center;
 `;
 
 export const Gardening = styled.div`
-background-color: #723008;
-color: rgb(251, 226, 66);
+background-color: rgba(185, 179, 179, 0.454);
+color: #00fde8;
 padding: 5%;
 grid-area: gardening;
 font-size: 1.25em;
@@ -59,8 +55,8 @@ text-align: center;
 `;
 
 export const Crafting = styled.div`
-background-color: #723008;
-color: rgb(251, 226, 66);
+background-color: rgba(185, 179, 179, 0.454);
+color: #00fde8;
 padding: 5%;
 grid-area: crafting;
 font-size: 1.25em;
@@ -68,10 +64,11 @@ text-align: center;
 `;
 
 export const Tiers = styled.div`
-background-color: #723008;
-color: rgb(251, 226, 66);
-padding: 5%;
-grid-area: tierCost;
+background-color: rgba(185, 179, 179, 0.454);
+color: #00fde8;
+padding: 3%;
+margin-left: auto;
+margin-right: auto;
 font-size: 1.25em;
 text-align: center;
 `;
