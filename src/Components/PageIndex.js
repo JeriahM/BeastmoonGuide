@@ -6,5 +6,6 @@ import Home from "./Home.js";
 import Hunt from "./Hunt.js";
 import Mayhem from "./Mayhem.js";
 import Beasts from "./Forms/Beasts.js";
+import Wolf from "./Forms/Wolf/IceWolf.js";
 
-export {LogIn, Register, Profile, Home, Navigation, Hunt, Mayhem, Beasts};
+export {LogIn, Register, Profile, Home, Navigation, Hunt, Mayhem, Beasts, Wolf};
