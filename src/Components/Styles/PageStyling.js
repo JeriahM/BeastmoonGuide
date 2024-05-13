@@ -9,6 +9,10 @@ align-items: center;
 display: grid;
 `;
 
+export const Header = styled.div`
+font-size: 1.25em
+`;
+
 // primary must be rgb
 export function pageStyle(primary, secondary){
    return `body{

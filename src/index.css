@@ -10,16 +10,12 @@
   color: rgb(117, 117, 229);
 } */
 body {
-  background-color: rgb(216, 198, 81);
-  color: #723008;
+  background-color: rgb(221,161,94);
+  color: #582f0e;
   padding-top: 0%;
   margin-top: 0%;
   border-top: 0%;
   display: grid;
-  grid-auto-rows: auto;
-  grid-template-columns: repeat(auto-fill, minmax(150px, 100%));
-  grid-auto-columns: auto;
-  row-gap: 1em;
 }
 ul {
   display: flex;
@@ -73,4 +69,8 @@ h2 {
 
 img{
   margin: auto;
+}
+
+th, tr, td{
+  border: 1px solid;
 }
