@@ -13,8 +13,8 @@ import { useState } from "react";
          <Route path="/Beastmoon-Hunt" element={<Page.Hunt/>} />
          <Route path="/Beastmoon-Mayhem" element={<Page.Mayhem/>} />
          <Route path="/Beastmoon-Forms" element={<Page.Beasts/>} />
-         <Route path="/Beastmoon-Tips" element={<Page.Tips/>} />
          <Route path="/Beastmoon-Forms/Wolf" element={<Page.Wolf/>} />
+         <Route path="/Beastmoon-Tips" element={<Page.Tips/>} />
          <Route path="/Login" element={<LogOutRoute path="/Login" element={Page.LogIn} param={setUser} />} />
          <Route path="/Register" element={<LogOutRoute path="/Register" element={Page.Register} param={setUser}/>} />
          <Route path="/Profile" element={<LogInRoute path="/Profile" element={Page.Profile} param={setUser} />} />

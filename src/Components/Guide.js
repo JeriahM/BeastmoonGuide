@@ -119,13 +119,13 @@ const Guide = () => {
               </tr>
               <tr>
                 <td>4</td>
-                <td>6 Regular Idols & 600 Lunari</td>
+                <td>24 Regular Idols & 2400 Lunari</td>
                 <td>4</td>
                 <td>2 School Moonstones & 200 Lunari</td>
               </tr>
               <tr>
                 <td>5</td>
-                <td>12 Regular Idols & 1200 Lunari</td>
+                <td>48 Regular Idols & 4800 Lunari</td>
                 <td>5</td>
                 <td>2 Regular Idols & 300 Lunari</td>
               </tr>
