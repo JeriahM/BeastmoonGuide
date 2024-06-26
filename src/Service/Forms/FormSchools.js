@@ -40,6 +40,7 @@ const getFormSchools = (form) => {
    .get(folder)
    .then((response) => {
       var info = [];
+      //eslint-disable-next-line
       response.data.map(function(beast){
          info.push(beast.school);
       });

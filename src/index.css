@@ -5,10 +5,6 @@
 @tailwind base;
 @tailwind components;
 */
-/* #test{
-  background-color: rgb(117, 117, 117);
-  color: rgb(117, 117, 229);
-} */
 body {
   background-color: rgb(221,161,94);
   color: #582f0e;

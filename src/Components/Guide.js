@@ -8,7 +8,7 @@ const Guide = () => {
       <Body>
         <Header><h1>Beastmoon Guide</h1></Header>
         <Helmet>
-          <style>{pageStyle("216, 198, 81", "#723008")}</style>
+          <style>{pageStyle("2,48,71", "#00fde8")}</style>
         </Helmet>
         <Description>
             <h2>So What is Beastmoon...</h2>
@@ -20,9 +20,6 @@ const Guide = () => {
             </p>
           </Description>
         <Wrapper>
-          <Helmet>
-            <style>{pageStyle("2,48,71", "#00fde8")}</style>
-          </Helmet>
           <Forms>
             <h2>Beastmoon Forms</h2>
             <p>
