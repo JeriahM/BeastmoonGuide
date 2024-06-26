@@ -1,5 +1,5 @@
-import {Wrapper, Description, Forms, Lunari, Crafting, Gardening, Tiers} from './Styles/GuideStyle.js';
-import { pageStyle, Body, Header } from "./Styles/PageStyling.js";
+import {Wrapper, Description, Forms, Lunari, Crafting, Gardening, Tiers, Body} from './Styles/GuideStyle.js';
+import { pageStyle, Header } from "./Styles/PageStyling.js";
 import { Helmet, HelmetProvider } from 'react-helmet-async';
 
 const Guide = () => {
@@ -7,6 +7,9 @@ const Guide = () => {
     <HelmetProvider>
       <Body>
         <Header><h1>Beastmoon Guide</h1></Header>
+        <Helmet>
+          <style>{pageStyle("216, 198, 81", "#723008")}</style>
+        </Helmet>
         <Description>
             <h2>So What is Beastmoon...</h2>
             <p>

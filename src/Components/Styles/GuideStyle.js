@@ -1,8 +1,6 @@
 import styled from 'styled-components';
 
 export const Body = styled.body`
-background-color: rgb(216, 198, 81);
-color: #723008;
 padding-top: 0%;
 margin-top: 0%;
 border-top: 0%;
