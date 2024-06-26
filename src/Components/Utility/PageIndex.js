@@ -7,6 +7,15 @@ import Hunt from "../Hunt.js";
 import Mayhem from "../Mayhem.js";
 import Tips from "../Tips.js";
 import Beasts from "../Forms/Beasts.js";
-import Wolf from "../Forms/Wolf/IceWolf.js";
+import Wolf from "../Forms/Wolf.js";
+import Krok from "../Forms/Krokomummy.js";
+import Colossus from "../Forms/Colossus.js";
+import Cyclops from "../Forms/Cyclops.js";
+import Draconian from "../Forms/Draconian.js";
+import Elf from "../Forms/Elf.js";
+import Fairy from "../Forms/Fairy.js";
+import Pig from "../Forms/Pig.js";
+import Minotaur from "../Forms/Minotaur.js";
+import Rat from "../Forms/Rat.js";
 
-export {LogIn, Register, Profile, Guide, Navigation, Hunt, Mayhem, Tips, Beasts, Wolf};
+export {LogIn, Register, Profile, Guide, Navigation, Hunt, Mayhem, Tips, Beasts, Wolf, Krok, Colossus, Cyclops, Draconian, Elf, Fairy, Rat, Pig, Minotaur};

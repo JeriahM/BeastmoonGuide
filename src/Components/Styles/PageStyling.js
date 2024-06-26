@@ -5,7 +5,7 @@ padding-top: 0%;
 margin-top: 1em;
 border-top: 0%;
 text-align: center;
-align-items: center;
+align-self: center;
 display: grid;
 `;
 
