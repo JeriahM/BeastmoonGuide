@@ -118,5 +118,29 @@
       "image10" : "/Images/Wolf/Balance/C10.PNG",
       "image10Full" : "/Images/Wolf/Balance/C10Full.PNG",
       "form" : "/Images/Wolf/Balance/form.PNG"
+   },
+   {
+      "school" : "Fire",
+      "image1" : "/Images/Wolf/Fire/C1.PNG",
+      "image1Full" : "/Images/Wolf/Fire/C1Full.PNG",
+      "image2" : "/Images/Wolf/Fire/C2.PNG",
+      "image2Full" : "/Images/Wolf/Fire/C2Full.PNG",
+      "image3" : "/Images/Wolf/Fire/C3.PNG",
+      "image3Full" : "/Images/Wolf/Fire/C3Full.PNG",
+      "image4" : "/Images/Wolf/Fire/C4.PNG",
+      "image4Full" : "/Images/Wolf/Fire/C4Full.PNG",
+      "image5" : "/Images/Wolf/Fire/C5.PNG",
+      "image5Full" : "/Images/Wolf/Fire/C5Full.PNG",
+      "image6" : "/Images/Wolf/Fire/C6.PNG",
+      "image6Full" : "/Images/Wolf/Fire/C6Full.PNG",
+      "image7" : "/Images/Wolf/Fire/C7.PNG",
+      "image7Full" : "/Images/Wolf/Fire/C7Full.PNG",
+      "image8" : "/Images/Wolf/Fire/C8.PNG",
+      "image8Full" : "/Images/Wolf/Fire/C8Full.PNG",
+      "image9" : "/Images/Wolf/Fire/C9.PNG",
+      "image9Full" : "/Images/Wolf/Fire/C9Full.PNG",
+      "image10" : "/Images/Wolf/Fire/C10.PNG",
+      "image10Full" : "/Images/Wolf/Fire/C10Full.PNG",
+      "form" : "/Images/Wolf/Fire/form.PNG"
    }
 ]

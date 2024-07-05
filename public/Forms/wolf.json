@@ -1,5 +1,27 @@
 [
    {
+      "school": "Fire",
+      "name": "Thane Cinderclaw",
+      "tier1": [1, 1, 2, 2, 3, 3, 4, 4, 5, 5, 6],
+      "tier2": [1, 1, 2, 2, 7, 7, 3, 3, 4, 4, 5, 5, 6],
+      "tier3": [1, 1, 1, 2, 2, 8, 8, 7, 7, 3, 3, 4, 4, 5, 5, 6],
+      "tier4": [1, 1, 1, 9, 9, 2, 2, 8, 8, 7, 7, 3, 3, 4, 4, 5, 5, 6],
+      "tier5": [1, 1, 1, 9, 9, 2, 2, 8, 8, 7, 7, 3, 3, 4, 4, 5, 5, 10, 10, 6],
+      "descriptionForm": "Damage / Heal : ",
+      "description1": "Hotfoot: Deal a 75, 3 turn DoT and clear enemy shield for a pip [0 pips]",
+      "description2": "Mouse To The Flame: Deal 75 damage and gain a 100, 4 turn HoT if enemy has a DoT [1 pip]",
+      "description3": "Warfire: Deal 150 damage or 225 damage if you have a HoT [2 pips]",
+      "description4": "Heat Transfer: Deal a 300, 3 turn DoT and gain a 200, 4 turn HoT if enemy has a DoT [3 pips]",
+      "description5": "Burning Bull: Deal 150 damage to all enemies or 225 if you have a HoT [4 pips]",
+      "description6": "Lord Of Fire: Deal a 300, 4 turn DoT to all enemies and clear enemy shield for 1 pip to self [6 pips]",
+      "description7": "Raise The Ashes: Summon minion or gain a 300, 4 turn HoT if you already have a minion [2 pip]",
+      "description8": "Kroken-Cook-'Em: Deal a 225, 3 turn DoT and clear self of trap for a 150, 3 turn HoT [2 pips]",
+      "description9": "Fire Wave: Deal a 150, 3 turn DoT and expel all minions on enemy team [1 pips]",
+      "description10": "Web Of Fire: Deal 200 damage to all enemies and gain a 150, 3 turn HoT if enemy has a DoT [5 pips]",
+      "pips": 1,
+      "health": 525
+   },
+   {
       "school": "Ice",
       "name": "Thrym Winterhowl",
       "tier1": [1, 1, 2, 2, 3, 3, 4, 4, 4, 5, 5, 6],
@@ -7,7 +29,7 @@
       "tier3": [7, 7, 1, 1, 2, 2, 3, 3, 4, 4, 4, 8, 8, 5, 5, 6],
       "tier4": [7, 7, 1, 1, 1, 2, 2, 3, 3, 4, 4, 4, 8, 8, 5, 5, 9, 6],
       "tier5": [7, 7, 1, 1, 1, 2, 2, 3, 3, 4, 4, 4, 10, 10, 8, 8, 5, 5, 9, 6],
-      "descriptionForm": "Tank",
+      "descriptionForm": "Tank : A true tank with an abundance of shields. Gains better damage as it tiers up",
       "description1": "Snow Fort: Place a 100 shield and remove trap [0 pips]",
       "description2": "Brisk Blast: Deal 25 damage and gain 1 pip if you have a shield / trap [0 pips]",
       "description3": "Shatter Squall: Deal 50 damage and clear enemy blade for 75 trap [1 pip]",
@@ -17,7 +39,9 @@
       "description7": "Bracing Frost: Place a 100 shield and clear mantle for a pip [0 pips]",
       "description8": "Blizzard Wind: Deal 225 damage and gain a 125 shield for self [4 pips]",
       "description9": "Shatterstorm: Deal 200 damage to all enemies and clear enemy blade for 200 trap [6 pips]",
-      "description10": "Freeze Blast: Deal 150 damage and stun enemy if they have a DoT [2 pips]"
+      "description10": "Freeze Blast: Deal 150 damage and stun enemy if they have a DoT [2 pips]",
+      "pips": 1,
+      "health": 600
    },
    {
       "school": "Storm",
@@ -27,7 +51,7 @@
       "tier3": [1, 1, 7, 7, 2, 2, 8, 8, 3, 3, 4, 4, 4, 5, 5, 6],
       "tier4": [1, 1, 7, 7, 2, 2, 8, 8, 3, 3, 4, 4, 4, 9, 9, 5, 5, 6],
       "tier5": [1, 1, 7, 7, 2, 2, 8, 8, 3, 3, 4, 4, 4, 9, 9, 5, 5, 10, 10, 6],
-      "descriptionForm": "Tank / Empower",
+      "descriptionForm": "Tank / Empower : Storm Wolf is mostly used for its great blades and stunning enemies, but don't let that fool you as it can also deal some decent damage",
       "description1": "Catalyze: Place a 50 blade and remove a DoT [0 pips]",
       "description2": "Thunder Gaze: Deal 25 damage and stun enemy [1 pip]",
       "description3": "Storm Surge: Place a 200 blade and a 100 blade if target already has a blade / mantle (does not stack) [2 pips]",
@@ -37,7 +61,9 @@
       "description7": "Turbocharge: Place a 100 blade and a 50 shield if target has a HoT [1 pip]",
       "description8": "Feeding Frenzy: Deal 100 damage and gain 2 pips if enemy has a trap [2 pips]",
       "description9": "Voltaic Phoenix: Deal 225 damage or 300 damage if you have a HoT [3 pips]",
-      "description10": "Avenging Marid: Deal 150 damage to all enemies or 250 damage if you have a DoT [4 pips]"
+      "description10": "Avenging Marid: Deal 150 damage to all enemies or 250 damage if you have a DoT [4 pips]",
+      "pips": 1,
+      "health": 525
    },
    {
       "school": "Myth",
@@ -47,7 +73,7 @@
       "tier3": [8, 8, 1, 1, 2, 2, 2, 7, 7, 3, 3, 4, 4, 5, 5, 6],
       "tier4": [8, 8, 1, 1, 2, 2, 2, 7, 7, 3, 3, 4, 4, 5, 5, 9, 6],
       "tier5": [8, 8, 1, 1, 2, 2, 2, 7, 7, 3, 3, 10, 10, 4, 4, 5, 5, 9, 9, 6],
-      "descriptionForm": "Tank",
+      "descriptionForm": "Tank : A tank that uses a minion to help shield itself and allies. Gains more utility as it tiers up",
       "description1": "Trickster's Bite: Steal enemy shield then deal 50 damage [0 pips]",
       "description2": "Call Of The Pack: Summon minion [0 pips]",
       "description3": "Feral Tenacity: Deal 150 damage and clear trap for 100 shield to self [2 pips]",
@@ -57,7 +83,9 @@
       "description7": "Shake It Off: Push shield and clear mantle for a 100 shield [1 pip]",
       "description8": "Vile Veterinarian: Push mantle to enemy then deal 50 damage [0 pips]",
       "description9": "Mad Dog: Deal 200 damage to all enemies and place a -50 accuracy mantle if enemy has a DoT [5 pips]",
-      "description10": "For The Pack!: Sacrifice minion to give whole team a 100 shield and a double pip, 2 turn bubble [3 pips]"
+      "description10": "For The Pack!: Sacrifice minion to give whole team a 100 shield and a double pip, 2 turn bubble [3 pips]",
+      "pips": 1,
+      "health": 575
    },
    {
       "school": "Death",
@@ -67,7 +95,7 @@
       "tier3": [1, 1, 1, 2, 2, 7, 7, 3, 3, 8, 8, 4, 4, 5, 6, 6],
       "tier4": [1, 1, 1, 2, 2, 7, 7, 3, 3, 8, 8, 4, 4, 9, 9, 5, 6, 6],
       "tier5": [1, 1, 1, 2, 2, 7, 7, 3, 3, 8, 8, 4, 4, 9, 9, 10, 10, 5, 6, 6],
-      "descriptionForm": "Tank / Enfeeble",
+      "descriptionForm": "Tank / Enfeeble : Death Wolf is a perfect tank as it taunts, can steal HP, and places alot of weaknesses. The higher the tier the more damage it gains making it very formidable",
       "description1": "Grimbite: Deal 50 damage and place a 50 weakness if enemy has more than 50% of their HP [0 pips]",
       "description2": "Haunting Howl: Taunt for 2 turns [0 pips]",
       "description3": "Grimjaws: Steal 50 HP [1 pip]",
@@ -77,7 +105,9 @@
       "description7": "Protect Packmate: Place a 75 shield or a 150 shield if target has taunt activated [1 pip]",
       "description8": "A Taste Of Fear: Deal 150 damage and clear enemy blade for 75 shield for self [2 pips]",
       "description9": "Chilling Growl: Place a 225 weakness and steal enemy HoT [3 pips]",
-      "description10": "Howl Of Ill Omen: Deal 225 damage to enemy. Steal it instead if enemy HP is over 50% [3 pips]"
+      "description10": "Howl Of Ill Omen: Deal 225 damage to enemy. Steal it instead if enemy HP is over 50% [3 pips]",
+      "pips": 1,
+      "health": 550
    },
    {
       "school": "Balance",
@@ -87,7 +117,7 @@
       "tier3": [1, 1, 2, 2, 8, 8, 3, 3, 3, 4, 4, 7, 7, 5, 5, 6],
       "tier4": [1, 1, 2, 2, 8, 8, 3, 3, 3, 4, 4, 7, 7, 5, 5, 5, 8, 6],
       "tier5": [1, 1, 2, 2, 8, 8, 3, 3, 3, 4, 4, 10, 10, 7, 7, 5, 5, 5, 9, 6],
-      "descriptionForm": "Damage / Pips",
+      "descriptionForm": "Damage / Pips : Balance Wolf can deal continuous damage and also gift pips making it pretty straightforward. As it tiers up though it gains uses that are underrated and rarely seen making an excellent surprise in Hunt matches",
       "description1": "Lousy Thief: Swap blade / mantle then deal 50 damage [0 pips]",
       "description2": "Scuttling Scorpion: Deal 100 damage and clear enemy shield for a 50 trap [1 pip]",
       "description3": "Double Down: Swap blade / mantle and gift 2 pips [2 pips]",
@@ -97,6 +127,8 @@
       "description7": "Incitement: Gift 3 pips and clear blade / mantle for a 100 blade [3 pips]",
       "description8": "Sudden Flare: Deal 100 damage and gain a pip if enemy has a blade / mantle [1 pip]",
       "description9": "Vengeful Ronin: Deal 200 damage to all enemies [4 pips]",
-      "description10": "Hunting Howl: Place a 50 blade, 4 turn bubble [2 pips]"
+      "description10": "Hunting Howl: Place a 50 blade, 4 turn bubble [2 pips]",
+      "pips": 1,
+      "health": 575
    }
 ]

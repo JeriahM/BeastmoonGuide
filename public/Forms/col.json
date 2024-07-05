@@ -17,7 +17,9 @@
       "description7": "Sacrificial Flame: Sacrifice minion to gift 125 shield to all teammates and remove a shield from all enemies [3 pips]",
       "description8": "Full Steam: Gift a pip and clear a trap for a pip for self [0 pips]",
       "description9": "Fire and Smoke: Deal 225, 3 turn DoT on enemy and place a -50 accuracy mantle if enemy team has a minion [2 pips]",
-      "description10": "Pyrodynamics: Take 200 damage to self for a 225, 3 turn DoT for all enemies and a 200, 3 turn HoT for all teammates [4 pips]"
+      "description10": "Pyrodynamics: Take 200 damage to self for a 225, 3 turn DoT for all enemies and a 200, 3 turn HoT for all teammates [4 pips]",
+      "pips": 1,
+      "health": 525
    },
    {
       "school": "Ice",
@@ -37,7 +39,9 @@
       "description7": "Scrap Trap: Place a 100 shield and remove a trap [0 pips]",
       "description8": "Blue Moon Bird: Deal 200 damage and clear blade for 2 pips to self [4 pips]",
       "description9": "Iceheart Kraken: Deal 150 damage and place a 200 trap if enemy has a trap [6 pips]",
-      "description10": "Eternal Aegis: Place 125/pip shield [X pips]"
+      "description10": "Eternal Aegis: Place 125/pip shield [X pips]",
+      "pips": 0,
+      "health": 600
    },
    {
       "school": "Storm",
@@ -57,7 +61,9 @@
       "description7": "Neural Shock: Stun enemy and deal 50 damage if enemy has a trap [1 pip]",
       "description8": "Gathering Storm: Place a 200 blade and clear mantle for a 100 blade (Does not Stack) [2 pips]",
       "description9": "Elven Bolt: Deal 150 damage and place a dispel if your HP is less than 50% [2 pips]",
-      "description10": "Ferrous Tyrant: Deal 250 damage to all enemies and stun enemies if your HP is less than 50% [5 pips]"
+      "description10": "Ferrous Tyrant: Deal 250 damage to all enemies and stun enemies if your HP is less than 50% [5 pips]",
+      "pips": 1,
+      "health": 525
    },
    {
       "school": "Myth",
@@ -77,7 +83,9 @@
       "description7": "Envelop: Place a 200 trap and gain a 100 shield if enemy has taunt active [2 pips]",
       "description8": "Fierce Rally: Push a shield and gain a 75 shield if you have taunt active [0 pips]",
       "description9": "To The Last: Place afterlife that gives rest of team a 200 shield [3 pips]",
-      "description10": "Total War: Deal 150 damage to all enemies and a 150, 3 turns if your team has a minion [4 pips]"
+      "description10": "Total War: Deal 150 damage to all enemies and a 150, 3 turns if your team has a minion [4 pips]",
+      "pips": 1,
+      "health": 550
    },
    {
       "school": "Life",
@@ -97,7 +105,9 @@
       "description7": "Kaboom!: Push DoT to enemy and detonate it [0 pips]",
       "description8": "Spry Satyr: Place a 250, 5 turn HoT on whole team [4 pips]",
       "description9": "Spirit Spider: Deal 225 damage and place afterlife that heals own team by 50 if enemy is minion [3 pips]",
-      "description10": "Revivify: Place afterlife that gives rest of team double pips for 2 turns [0 pips]"
+      "description10": "Revivify: Place afterlife that gives rest of team double pips for 2 turns [0 pips]",
+      "pips": 0,
+      "health": 575
    },
    {
       "school": "Death",
@@ -117,6 +127,8 @@
       "description7": "Mortis' Malaise: Steal blade then steal 50 HP from enemy [1 pip]",
       "description8": "Woe Toad: Deal 150 damage to all enemies or clear blade for 225 damage [4 pips]",
       "description9": "Red Deathish: Place a 50 weakness and steal blade from enemy [0 pips]",
-      "description10": "Undying: Place afterlife that steals 50 HP from each opponent [1 pip]"
+      "description10": "Undying: Place afterlife that steals 50 HP from each opponent [1 pip]",
+      "pips": 1,
+      "health": 550
    }
 ]

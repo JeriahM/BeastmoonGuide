@@ -17,7 +17,9 @@
       "description7": "Flames Of Fury: Deal 125 damage and gain a pip if you have a HoT [1 pip]",
       "description8": "Volatile Blaze: Deal a 450, 3 turn Dot and detonate if enemy has a mantle [3 pips]",
       "description9": "Hearth Elf: Deal 75 damage and a 75, 3 turn DoT if you have a shield [0 pips]",
-      "description10": "Blaze Of Glory: Take 250 damage and gift 3 pips to whole team [4 pips]"
+      "description10": "Blaze Of Glory: Take 250 damage and gift 3 pips to whole team [4 pips]",
+      "pips": 2,
+      "health": 325
    },
    {
       "school": "Ice",
@@ -37,7 +39,9 @@
       "description7": "Shatterstrike: Deal 75 damage and stun enemy if you have a shield / trap [1 pip]",
       "description8": "Resolution: Place a 300 shield and clear mantle for 1 pip [3 pips]",
       "description9": "Snowball Storm: Deal 50 damage and place a 50 weakness if enemy has a mantle [0 pips]",
-      "description10": "Bracing Cold: Gift whole team 3 pips and a 150 shield if they have a shield / trap [6 pips]"
+      "description10": "Bracing Cold: Gift whole team 3 pips and a 150 shield if they have a shield / trap [6 pips]",
+      "pips": 3,
+      "health": 400
    },
    {
       "school": "Storm",
@@ -57,7 +61,9 @@
       "description7": "Static Discharge: Deal 75 damage and place a 50 trap if enemy has a HoT / DoT [0 pips]",
       "description8": "Nerve Shock: Deal 125 damage and stun enemy [2 pips]",
       "description9": "Precipitous: Place a 125 blade and remove a mantle for whole team [3 pips]",
-      "description10": "Energy Wave: Deal 250 damage to all enemies and place a 100 trap if enemy has a HoT / DoT [4 pips]"
+      "description10": "Energy Wave: Deal 250 damage to all enemies and place a 100 trap if enemy has a HoT / DoT [4 pips]",
+      "pips": 2,
+      "health": 325
    },
    {
       "school": "Life",
@@ -77,7 +83,9 @@
       "description7": "Lifeforce Overflow: Deal 50 damage and detonate DoT if enemy has a mantle [0 pips]",
       "description8": "Vitality Surge: Place a double pip, 4 turn bubble and extend HoT by 2 turns [3 pips]",
       "description9": "Happy Healers: Place a 300, 3 turn HoT and heal 100 HP if enemy team has a minion [2 pips]",
-      "description10": "Spinning Squirrel: Deal 200 damage to all enemies and gain a pip if enemy has a DoT [4 pips]"
+      "description10": "Spinning Squirrel: Deal 200 damage to all enemies and gain a pip if enemy has a DoT [4 pips]",
+      "pips": 2,
+      "health": 375
    },
    {
       "school": "Death",
@@ -97,7 +105,9 @@
       "description7": "Deadly Weapons: Place a 200 blade for whole team and a 150 shield if they have a shield [4 pips]",
       "description8": "Deathly Toll: Deal 125 damage and stun self [0 pips]",
       "description9": "Touch Of Unlife: Steal 150 HP and clear enemy blade for 100 weakness [2 pips]",
-      "description10": "Death Breath: Deal 150 damage to all enemies and give a 100 blade to self if you have a shield [3 pips]"
+      "description10": "Death Breath: Deal 150 damage to all enemies and give a 100 blade to self if you have a shield [3 pips]",
+      "pips": 1,
+      "health": 350
    },
    {
       "school": "Balance",
@@ -117,6 +127,8 @@
       "description7": "Terrible Tiger: Deal 125 damage and remove a pip from enemy [2 pips]",
       "description8": "Wind-Up: Place a 125 damage, 2 turn bubble and gift 2 pips [3 pips]",
       "description9": "Wear Of Time: Deal 125 damage and add a turn to enemy DoT [1 pip]",
-      "description10": "Wounding Slash: Deal a 500, 5 turn DoT [3 pips]"
+      "description10": "Wounding Slash: Deal a 500, 5 turn DoT [3 pips]",
+      "pips": 2,
+      "health": 375
    }
 ]

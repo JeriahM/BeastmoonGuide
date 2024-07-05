@@ -17,7 +17,9 @@
       "description7": "Up In Smoke: Place a -50 accuracy mantle on enemy team and gain a pip if enemy has a shield [3 pips]",
       "description8": "Blood Boil: Deal 150 damage and detonate DoT if you have a HoT [2 pips]",
       "description9": "Flame On: Deal a 300, 3 turn DoT to self and deal 225 damage to all enemies [4 pips]",
-      "description10": "Turbo Charge: Gift 2 pips to whole team and clear DoT for 125, 5 turn HoT [5 pips]"
+      "description10": "Turbo Charge: Gift 2 pips to whole team and clear DoT for 125, 5 turn HoT [5 pips]",
+      "pips": 1,
+      "health": 525
    },
    {
       "school": "Ice",
@@ -37,7 +39,9 @@
       "description7": "Eye Spy: Deal 100 damage and place a 75 trap if enemy has a mantle [2 pips]",
       "description8": "Countermeasure: Place a 3 turn bubble of 100 shield [1 pip]",
       "description9": "Undermine: Deal 25 damage and clear blade for a -50 weakness [0 pips]",
-      "description10": "Troll Call: Summon an Ice minion [3 pips]"
+      "description10": "Troll Call: Summon an Ice minion [3 pips]",
+      "pips": 1,
+      "health": 600
    },
    {
       "school": "Storm",
@@ -57,7 +61,9 @@
       "description7": "Riptide: Place a 50 weakness and deal 50 damage if enemy has a bubble [0 pips]",
       "description8": "Weatherproofing: Place a 150 blade on whole team and clear DoT for a 100, 2 turn Hot [3 pips]",
       "description9": "Snow Bully: Deal 150 damage and place a 75 weakness if you have a HoT [2 pips]",
-      "description10": "Terrible Flu: Place a 125 weakness, 2 turn bubble on all enemies [3 pips]"
+      "description10": "Terrible Flu: Place a 125 weakness, 2 turn bubble on all enemies [3 pips]",
+      "pips": 1,
+      "health": 525
    },
    {
       "school": "Life",
@@ -77,7 +83,9 @@
       "description7": "Angelic Wrath: Deal a 75, 3 turn DoT on enemy and push a DoT from yourself to enemy",
       "description8": "Switcheroo: Take one DoT from each person on team and push them to one enemy [3 pips]",
       "description9": "Glorious Unicorn: Heal own team for 50 and gift 1 pip, gifts 2 pips if teammate is defeated [4 pips]",
-      "description10": "Battle Cry: Place afterlife on enemy that gives own team 50 blades [1 pip]"
+      "description10": "Battle Cry: Place afterlife on enemy that gives own team 50 blades [1 pip]",
+      "pips": 1,
+      "health": 575
    },
    {
       "school": "Death",
@@ -97,7 +105,9 @@
       "description7": "Pernicious Pig: Deal a 150, 3 turn DoT and an extra 75, 3 turn DoT if enemy has a trap [1 pip]",
       "description8": "Champion's Blight: Deal a 250, 5 turn DoT to all enemies, placing a 100 anti-heal shield on each [5 pips]",
       "description9": "Wave Of Frailty: Place a 150 weakness on all enemies [4 pips]",
-      "description10": "Foul Concoction: Place afterlife that deals a 250, 5 turn DoT to each enemy [3 pips]"
+      "description10": "Foul Concoction: Place afterlife that deals a 250, 5 turn DoT to each enemy [3 pips]",
+      "pips": 1,
+      "health": 550
    },
    {
       "school": "Balance",
@@ -117,6 +127,8 @@
       "description7": "Reinforce: Swap shield / trap then place a protected 300 shield [3 pips]",
       "description8": "Curse-Eater: Deal 300 damage and remove DoT on self for a 200, 4 turn HoT on self [4 pips]",
       "description9": "Feedback Loop: Swap HoT / DoT then gift 2 pips [2 pips]",
-      "description10": "Tide Of Battle: Place a global bubble that gives everyone double pips [0 pips]"
+      "description10": "Tide Of Battle: Place a global bubble that gives everyone double pips [0 pips]",
+      "pips": 0,
+      "health": 575
    }
 ]

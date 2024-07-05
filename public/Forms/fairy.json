@@ -17,7 +17,9 @@
       "description7": "Wyvern Woe: Deal a 200, 4 turn DoT or expel minion to pacify self for 2 turns [1 pip]",
       "description8": "Firebird Wings: Clear enemy shield to detonate DoT then deal 75 damage [0 pips]",
       "description9": "Scorch The Earth: Deal a 300, 3 turn DoT to all enemies and clear a trap on whole team for 1 pip [4 pips]",
-      "description10": "Strife After Death: Deal a 450, 3 turn DoT and place afterlife that deals a 375, 3 turn DoT to enemy team if enemy is a minion [3 pips]"
+      "description10": "Strife After Death: Deal a 450, 3 turn DoT and place afterlife that deals a 375, 3 turn DoT to enemy team if enemy is a minion [3 pips]",
+      "pips": 2,
+      "health": 325
    },
    {
       "school": "Ice",
@@ -37,7 +39,9 @@
       "description7": "Winter's Blessing: Gift 3 pips and place a 125 shield if your team has a minion [3 pips]",
       "description8": "Ice Scream: Deal 50 damage and clear blade to stun enemy (Will hit twice if blade is present) [1 pip]",
       "description9": "Freeze And Thaw: Place a 125 shield and clear trap for 1 pip [1 pip]",
-      "description10": "Brisk and Reward: Gift 2 pips and a 125 shield if team has a minion to whole team [4 pips]"
+      "description10": "Brisk and Reward: Gift 2 pips and a 125 shield if team has a minion to whole team [4 pips]",
+      "pips": 2,
+      "health": 400
    },
    {
       "school": "Myth",
@@ -57,7 +61,9 @@
       "description7": "Beneficence: Gift 2 pips and clear mantle for 1 pip to self [2 pips]",
       "description8": "Clangorous Banshee: Deal 75 damage and detonate DoT [0 pips]",
       "description9": "Bad Kitty: Deal 125 damage or 200 damage if enemy has taunt active [1 pip]",
-      "description10": "Tremor: Deal 250 damage to all enemies and place a 125 trap if enemy has a DoT [4 pips]"
+      "description10": "Tremor: Deal 250 damage to all enemies and place a 125 trap if enemy has a DoT [4 pips]",
+      "pips": 2,
+      "health": 350
    },
    {
       "school": "Life",
@@ -77,7 +83,9 @@
       "description7": "Spiteful Sprite: Place a 200, 4 turn HoT and a 50 blade [1 pip]",
       "description8": "Angelic Vigor: Deal 200 damage and gain a double pip, 3 turn bubble if you have a blade [3 pips]",
       "description9": "Revenant: Place afterlife that gives rest of team double pips [1 pip]",
-      "description10": "Dryad Of Artemis: Heal 100 HP per pip [X pips]"
+      "description10": "Dryad Of Artemis: Heal 100 HP per pip [X pips]",
+      "pips": 2,
+      "health": 375
    },
    {
       "school": "Death",
@@ -97,7 +105,9 @@
       "description7": "Infection: Place a -75 heal blade on enemy [0 pips]",
       "description8": "Cursed Kitty: Deal 125 damage and place a 75 trap if you have a blade [1 pip]",
       "description9": "Consume Life: Steal 225 HP [3 pips]",
-      "description10": "Death's Champion: Deal a 300, 4 turn DoT to all enemies and place 125 traps if you have a blade [5 pips]"
+      "description10": "Death's Champion: Deal a 300, 4 turn DoT to all enemies and place 125 traps if you have a blade [5 pips]",
+      "pips": 2,
+      "health": 350
    },
    {
       "school": "Balance",
@@ -117,6 +127,8 @@
       "description7": "Invigorate: Place a double pip, 5 turn bubble [4 pips]",
       "description8": "Provoke: Deal 50 damage and detonate a DoT [0 pips]",
       "description9": "Reconstruct: Place a 200, 4 turn HoT and clear a DoT for a 150, 3 turn HoT [2 pips]",
-      "description10": "Power Conversion: Place a 4 turn bubble that gifts a pip for every spell cast on person that is ranked 3+ (costs 3 or more pips) [1 pip]"
+      "description10": "Power Conversion: Place a 4 turn bubble that gifts a pip for every spell cast on person that is ranked 3+ (costs 3 or more pips) [1 pip]",
+      "pips": 3,
+      "health": 375
    }
 ]

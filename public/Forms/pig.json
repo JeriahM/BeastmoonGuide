@@ -7,7 +7,7 @@
       "tier3": [1, 1, 1, 2, 2, 7, 7, 3, 3, 4, 4, 8, 8, 5, 5, 6],
       "tier4": [1, 1, 1, 2, 2, 9, 9, 7, 7, 3, 3, 4, 4, 8, 8, 5, 5, 6],
       "tier5": [1, 1, 1, 2, 2, 9, 9, 7, 7, 3, 3, 4, 4, 8, 8, 5, 5, 10, 6, 6],
-      "descriptionForm": "Damage",
+      "descriptionForm": "Damage : Fire pig only cares about two things: dealing damage and removing shields. It will do both instant and overtime damage so read cards carefully",
       "description1": "Cindertooth: Deal a 75, 3 turn DoT and remove enemy shield [0 pips]",
       "description2": "Backdrafter: Deal 100 damage and summon a minino if enemy has a DoT [1 pip]",
       "description3": "Smoke Spirit: Deal 200 damage and gain 2 pips if enemy is a minion [2 pips]",
@@ -17,7 +17,9 @@
       "description7": "Pyredon: Deal 200 damage and place a 150, 3 turn DoT if you have a minion summoned [2 pips]",
       "description8": "Bennu Alight: Deal a 150, 3 turn DoT and remove all shields from enemy [3 pips]",
       "description9": "Garmr's Growl: Deal a 225, 3 turn DoT that detonates if you have a HoT [2 pips]",
-      "description10": "Fiery Doom: Deal 200 damage to all enemies and a 150, 3 turn DoT if you have a minion summoned [4 pips]"
+      "description10": "Fiery Doom: Deal 200 damage to all enemies and a 150, 3 turn DoT if you have a minion summoned [4 pips]",
+      "pips": 1,
+      "health": 425
    },
    {
       "school": "Ice",
@@ -27,7 +29,7 @@
       "tier3": [7, 7, 1, 1, 2, 2, 3, 3, 3, 4, 4, 8, 8, 5, 5, 6],
       "tier4": [7, 7, 1, 1, 2, 2, 3, 3, 3, 9, 9, 4, 4, 8, 8, 5, 5, 6],
       "tier5": [7, 7, 1, 1, 2, 2, 3, 3, 3, 9, 9, 4, 4, 8, 8, 5, 5, 10, 10, 6],
-      "descriptionForm": "Damage / Enfeeble",
+      "descriptionForm": "Damage / Enfeeble : Ice pig ",
       "description1": "Impenetrable Wall: Place a 75 shield, stun resist 2 turn bubble [0 pips]",
       "description2": "Hark, A Shark!: Clear mantle for a 75 shield to self then deal 50 damage [0 pips]",
       "description3": "Coldest Steel: Deal 75 damage and clear blade for a 75 shield to self [1 pip]",
@@ -37,7 +39,9 @@
       "description7": "Frigid Chill: Place a 50 weakness and gain 1 pip if you have a bubble [0 pips]",
       "description8": "Frozen Ocean: Deal 225 damage or 300 damage if you have a bubble [3 pips]",
       "description9": "Winter Wing: Deal 150 damage and place a 75 weakness if enemy has a mantle [2 pips]",
-      "description10": "Snow Cannonade: Deal 150 damage to all enemies and place a 75 weakness if enemy has a trap [4 pips]"
+      "description10": "Snow Cannonade: Deal 150 damage to all enemies and place a 75 weakness if enemy has a trap [4 pips]",
+      "pips": 1,
+      "health": 500
    },
    {
       "school": "Storm",
@@ -47,7 +51,7 @@
       "tier3": [1, 1, 1, 2, 2, 8, 8, 3, 3, 4, 4, 5, 5, 7, 7, 6],
       "tier4": [1, 1, 1, 2, 2, 8, 8, 3, 3, 4, 4, 9, 9, 5, 5, 7, 7, 6],
       "tier5": [1, 1, 1, 2, 2, 8, 8, 3, 3, 4, 4, 9, 9, 5, 5, 7, 7, 6, 6, 10],
-      "descriptionForm": "Heal / Enfeeble",
+      "descriptionForm": "Heal / Enfeeble : Storm pig has good damage as well as decent amount weaknesses for its utility. As it tiers up, it will gain better healing prowess",
       "description1": "Wilde Tremble: Place a 50 weakness [0 pips]",
       "description2": "Wilde Serpent: Deal 50 damage and gain a 75 blade if enemy has a mantle [0 pips]",
       "description3": "Wilde Zeal: Place a 125 blade and remove a DoT [1 pip]",
@@ -57,7 +61,9 @@
       "description7": "Ursa Wilde: Deal 200 damage and gain 50 HP [3 pips]",
       "description8": "Wilde Maelstrom: Place a dispel, 75 weakness, or -75 heal mantle on enemy (choice is random) [1 pip]",
       "description9": "Wilde Hearts: Heal 50 HP and a 2 to 4 round HoT that heals 50 each turn (length of HoT is random) [2 pips]",
-      "description10": "Wilde Squall: Deal 250 damage to all enemies and remove enemy HoT to stun them [5 pips]"
+      "description10": "Wilde Squall: Deal 250 damage to all enemies and remove enemy HoT to stun them [5 pips]",
+      "pips": 1,
+      "health": 425
    },
    {
       "school": "Myth",
@@ -67,7 +73,7 @@
       "tier3": [8, 8, 1, 1, 2, 2, 7, 7, 3, 3, 3, 4, 4, 5, 5, 6],
       "tier4": [8, 8, 1, 1, 2, 2, 7, 7, 3, 3, 3, 9, 9, 4, 4, 5, 5, 6],
       "tier5": [8, 8, 1, 1, 2, 2, 7, 7, 3, 3, 3, 9, 9, 4, 4, 5, 5, 10, 6, 6],
-      "descriptionForm": "Damage / Empower",
+      "descriptionForm": "Damage / Empower : Myth pig is a straightforward form that will deal damage as its primary function. As it tiers up, it also gets ways of removing traps and even detonating a DoT",
       "description1": "Summon Sani-Bot: Summon minion [0 pips]",
       "description2": "Ninja Strike: Deal 100 damage [1 pip]",
       "description3": "Poisoned Dart: Deal 200 damage and place a 100 trap if you have a shield [2 pips]",
@@ -77,7 +83,9 @@
       "description7": "Retaliation: Deal 100 damage or clear mantle and do 200 damage [2 pips]",
       "description8": "Surprise Attack: Push trap and detonate DoT [0 pips]",
       "description9": "Pip, Pip, Hooray: Target minion to remove traps from team and gift a pip [3 pips]",
-      "description10": "Ninja Fury: Divide 400 damage between enemies [4 pips]"
+      "description10": "Ninja Fury: Divide 400 damage between enemies [4 pips]",
+      "pips": 1,
+      "health": 450
    },
    {
       "school": "Death",
@@ -87,7 +95,7 @@
       "tier3": [1, 1, 7, 7, 2, 2, 3, 3, 4, 4, 5, 5, 5, 8, 8, 6],
       "tier4": [1, 1, 7, 7, 2, 2, 9, 9, 3, 3, 4, 4, 5, 5, 5, 8, 8, 6],
       "tier5": [1, 1, 7, 7, 7, 2, 2, 9, 9, 3, 3, 4, 4, 5, 5, 5, 8, 8, 6, 10],
-      "descriptionForm": "Damage / Enfeeble",
+      "descriptionForm": "Damage / Enfeeble : DoTs, weaknesses, instant damage, steal HP, aoes, and a trap. Death pig has it all, but with its diversity there isn't enough pips to combo actions as easily",
       "description1": "Stench Bug: Deal a 75, 3 turn DoT [0 pips]",
       "description2": "Red Death: Place a 100 trap [1 pip]",
       "description3": "Maiden Of Pain: Deal 200 damage and clear enemy HoT for a 100 trap [2 pips]",
@@ -97,7 +105,9 @@
       "description7": "Atrophy: Place a 100 weakness and clear enemy HoT for a 75, 3 turn DoT [1 pip]",
       "description8": "Befouling Brew: Deal a 500, 5 turn DoT and place a dispel if you have a shield [4 pips]",
       "description9": "Siphon Strength: Place a 200 weakness and clear enemy blade for a double pip, 2 turn bubble [2 pips]",
-      "description10": "Unhallowed Aid: Deal 250 damage and give team 100 blades if you have a blade [5 pips]"
+      "description10": "Unhallowed Aid: Deal 250 damage and give team 100 blades if you have a blade [5 pips]",
+      "pips": 1,
+      "health": 450
    },
    {
       "school": "Balance",
@@ -107,7 +117,7 @@
       "tier3": [7, 7, 1, 1, 1, 2, 2, 8, 8, 3, 3, 4, 4, 5, 5, 6],
       "tier4": [7, 7, 1, 1, 1, 9, 9, 2, 2, 8, 8, 3, 3, 4, 4, 5, 5, 6, 6],
       "tier5": [7, 7, 1, 1, 1, 9, 9, 2, 2, 8, 8, 3, 3, 4, 4, 5, 5, 10, 6, 6],
-      "descriptionForm": "Tank / Damage",
+      "descriptionForm": "Tank / Damage : Balance Pig at its core focuses on traps, weaknesses, and damage, while gaining pip ability when tiered up. Be careful not to have too many pips around them as they will weaken you",
       "description1": "Clever Trap: Place a 50 weakness and a 75 trap [0 pips]",
       "description2": "Sneak Attack: Deal 100 damage and place a 75 trap if you have a trap on you [1 pip]",
       "description3": "Heroic Strike: Deal 200 damage and remove enemy bubble [2 pips]",
@@ -117,6 +127,8 @@
       "description7": "Pre-Emptive Strike: Deal 50 damage and place a 75 weakness if enemy has 4 or more pips [0 pips]",
       "description8": "Inspire Courage: Gift 2 pips and clear shield / trap for another pip [2 pips]",
       "description9": "Reckless Chance: Deal 50 damage and place a global double pips bubble [1 pip]",
-      "description10": "Bombing Run: Deal 200 damage to all enemies and place a 75 weakness if enemy has 4 or more pips [4 pips]"
+      "description10": "Bombing Run: Deal 200 damage to all enemies and place a 75 weakness if enemy has 4 or more pips [4 pips]",
+      "pips": 1,
+      "health": 475
    }
 ]
